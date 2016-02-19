@@ -1,3 +1,3 @@
 # my-first-repository
-my first repository\n
+my first repository
 deodflwmfwedwmdklwemdewlkm
